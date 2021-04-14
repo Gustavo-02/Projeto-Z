@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+
+//Credito do codigo ao Marcos Schultz, atraves de seu tutorial foi possivel desenvolver esse codigo.
+
+
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using System;
